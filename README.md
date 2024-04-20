@@ -1,6 +1,3 @@
- Sure! Here's a template for a README file for a Flappy Bird game implemented in JavaScript:
-
----
 
 # Flappy Bird Game
 
